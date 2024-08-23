@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #002875;
+  font-family: "Arbutus Slab", serif;
+}
+.arbutus-slab-regular {
+  
+  font-weight: 400;
+  font-style: normal;
+}
